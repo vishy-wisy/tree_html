@@ -1,0 +1,24 @@
+body{
+	background: cyan;
+	margin: 0;
+	padding: 0;
+}
+
+.content{
+	background: yellow;
+	margin: 1 auto;
+	padding: 20px;
+	min-height: 300px;
+	width: 550px;
+
+}
+
+ul{
+	border-left: 1px solid #000;
+	margin-left: 20px;
+	padding-left: 20px;
+	list-style-image: url(146-16.png) ;
+	font-size: 18px;
+	font-family: sans-serif;
+	
+}
